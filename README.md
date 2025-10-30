@@ -2,10 +2,10 @@ This is an example ROS package for use in the HyperLabs ROS workshops.
 
 
 ## Build Steps
-1. Make your workspace directory
+1. Make your workspace directory and navigate to src
 ```
 mkdir -p colcon_ws/src
-cd colcon_ws
+cd colcon_ws/src
 ```
 2. Acquire the source files. Clone this repository using git.
 ```
