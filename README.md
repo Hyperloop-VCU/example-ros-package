@@ -21,5 +21,5 @@ colcon build --symlink-install
 ```
 5. Source the install source file to tell ROS about your new packages
 ```
-source install/source.bash
+source install/setup.bash
 ```
